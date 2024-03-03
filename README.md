@@ -1,7 +1,7 @@
 # CPP-projects
 
-Vending Machine and Sudoku Solver in C++
-This repository contains two C++ projects: a Vending Machine simulator and a Sudoku Solver. Each project is implemented in C++ and serves as a standalone application.
+Vending Machinein C++
+This repository contains C++ project: a Vending Machine simulator . it is implemented in C++ and serves as a standalone application.
 
 Vending Machine
 Description
